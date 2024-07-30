@@ -1,0 +1,26 @@
+.skills-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+}
+.skills-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.skill1{
+  background-color: #748d923c;
+  padding: 1vw;
+  margin: 1vw;
+}
+.skill2{
+  background-color: #748d923c;
+  padding: 1vw;
+  margin: 1vw;
+}
+.skill3{
+  background-color: #748d923c;
+  padding: 1vw;
+  margin: 1vw;
+}
+
